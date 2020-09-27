@@ -1,3 +1,7 @@
+This small program implements a Version-Queue data structure. 
+A Version-Queue maintains a version number along with normal Queue functionality. 
+Every operation[Enqueue/Dequeue] on the Queue increments its version.
+
 //// ******* Instructions *********
 
 To compile run:
